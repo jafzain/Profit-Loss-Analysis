@@ -1,5 +1,5 @@
 # KPI-Revenue,COGS,Expense,Operation Cost,Gross Profit & Net Profit-MoM & YoY Variance
-[PDF-View](ProfitLoss.pdf)  [👉Power BI](https://tinyurl.com/463rd3vu)|
+[PDF-View](ProfitLoss.pdf)  [👉Power BI](https://tinyurl.com/463rd3vu)
 
 Dashboard designed to present Profit & Loss statements in a clear, executive-ready format, enabling quick performance comparison and insight-driven financial analysis.
 Executive-ready Profit & Loss Analysis dashboard
